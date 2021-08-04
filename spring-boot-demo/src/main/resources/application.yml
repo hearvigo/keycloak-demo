@@ -6,7 +6,7 @@ keycloak:
   resource: spring-boot-demo
   ssl-required: external
   credentials:
-    secret: 2d2ab498-7af9-48c0-89a3-5eec929e462b
+    secret: 21e22fdf-f422-43ba-918b-2e33e5734348
   bearer-only: true
   use-resource-role-mappings: false
   cors: true
