@@ -5,7 +5,7 @@ docker run -d --name keycloak \
     -p 8080:8080 \
     -e KEYCLOAK_USER=admin \
     -e KEYCLOAK_PASSWORD=admin \
-    jboss/keycloak:10.0.0
+    jboss/keycloak:15.0.0
 ```
 
 ### 启动前端项目
